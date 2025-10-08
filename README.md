@@ -581,22 +581,22 @@ generic _Bool: 1
 
 **Output Analysis:**
 
-- **`generic int: 42`** - The binary pattern `00000000000000000000000000101010` is interpreted as decimal 42
+- **`generic int: 42`** - The binary pattern `00000000000000000000000000101010` is interpreted as decimal 42  
   **Why this works:** The machine treats this as an unsigned 32-bit integer. The printf `%d` format specifier tells the CPU to interpret these bits as a decimal integer.
 
-- **`generic float: 2.70`** - The IEEE 754 bit pattern `01000000001011001100110011001101` represents approximately 2.7
+- **`generic float: 2.70`** - The IEEE 754 bit pattern `01000000001011001100110011001101` represents approximately 2.7  
   **Why this works:** `*(float*)&generic_myFloat` takes the address of our uint32_t, casts it to a float pointer, and dereferences it. This tells the CPU: "interpret the bit pattern at this memory location as an IEEE 754 float." The floating-point unit then extracts the sign, exponent, and mantissa components according to IEEE 754 standard.
 
-- **`generic char: A`** - The binary `00000000000000000000000001000001` (65 in decimal) displays as ASCII 'A'
+- **`generic char: A`** - The binary `00000000000000000000000001000001` (65 in decimal) displays as ASCII 'A'  
   **Why this works:** The `%c` format specifier tells printf to treat the lowest 8 bits as an ASCII character code and display the corresponding symbol.
 
-- **`generic string (m1): ABC`** - Manual bit extraction successfully extracts each character from the packed integer
+- **`generic string (m1): ABC`** - Manual bit extraction successfully extracts each character from the packed integer  
   **Why this works:** We manually implement character extraction using bit shifts and masks. Each operation corresponds to actual machine instructions (SHR for shift, AND for masking), replicating what the CPU would do automatically with proper string handling.
 
-- **`generic string (m2): ABC`** - Pointer casting treats the same memory as a null-terminated string
+- **`generic string (m2): ABC`** - Pointer casting treats the same memory as a null-terminated string  
   **Why this works:** The cast `(char*)&generic_myString` tells the CPU to interpret the memory location as a sequence of ASCII bytes, reading sequentially until it encounters a null terminator (0x00).
 
-- **`generic _Bool: 1`** - The boolean value displays as integer 1
+- **`generic _Bool: 1`** - The boolean value displays as integer 1  
   **Why this works:** C treats any non-zero value as "true," and by convention, true is represented as 1. The CPU doesn't have a "boolean" instruction; it's just an integer comparison with printf's `%d` format displaying the raw numeric value.
 
 This output proves that identical `uint32_t` containers can successfully represent and reproduce the behavior of completely different data types, demonstrating that type distinctions are interpretive abstractions rather than fundamental properties of memory.
