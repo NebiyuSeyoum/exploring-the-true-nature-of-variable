@@ -468,10 +468,10 @@ The research confirms the hypothesis that data types function as interpretive co
 
 ## Technical Specifications
 
-**Programming Language:** C (C99 standard)
-**Target Architecture:** x86-64
-**Compiler:** GCC (GNU Compiler Collection)
-**Container Type:** `uint32_t` (32-bit unsigned integer)
+**Programming Language:** C (C99 standard)  
+**Target Architecture:** x86-64  
+**Compiler:** GCC (GNU Compiler Collection)  
+**Container Type:** `uint32_t` (32-bit unsigned integer)  
 **Data Representations:** Integer, IEEE 754 floating-point, ASCII character, packed string, boolean
 
 **Experimental Validation:** All findings verified through assembly code analysis and empirical testing across multiple numerical notation systems (binary, octal, decimal, hexadecimal).
